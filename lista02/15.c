@@ -20,6 +20,7 @@ int main(void) {
 	int x;
 	scanf("%d",&x);
 	Torre_Hanoi(x,'A','B','C');
+	printf("\n");
 
 	return 0;
 }
