@@ -48,6 +48,8 @@ int main(void) {
 			break;
 		}
 	}
+	
+	printf("\n");
 
 	return 0;
 }
