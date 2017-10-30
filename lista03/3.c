@@ -20,6 +20,7 @@ int main(void) {
 		v3[i]=v1[i]+v2[i];
 		printf("%d ",v3[i]);
 	}
+	printf("\n");
 
 	return 0;
 }
