@@ -28,7 +28,7 @@ int main(void) {
 	}
 	*/
 
-	printf("%s",saida);
+	printf("%s\n",saida);
 
 	return 0;
 }
