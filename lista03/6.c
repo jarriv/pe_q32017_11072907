@@ -28,7 +28,7 @@ int main(void) {
 		mediana=(v[n/2-1]+v[n/2])/2.0;
 	}
 
-	printf("%.2lf",mediana);
+	printf("%.2lf\n",mediana);
 
 	return 0;
 }
